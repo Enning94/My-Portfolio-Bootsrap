@@ -21,39 +21,10 @@
     display: none;
   }
 
-  /* .logo {
-    align-items: center;
+  .nav-color {
+    background-color: #3e3c3c;
   }
 
-  .navi {
-    display: flex;
-    flex-direction: row;
-    gap: 10px;
-    list-style: none;
-    justify-content: space-around;
-    padding: 10px 12px;
-    text-decoration: none;
-  }
-
-  nav li {
-    width: 63px;
-    height: 20px;
-    margin-right: 10px;
-  }
-
-  nav a {
-    width: 63px;
-    height: 20px;
-    font-family: "Inter", sans-serif;
-    font-style: normal;
-    font-weight: 600;
-    font-size: 15px;
-    line-height: 20px;
-    color: white;
-  } */
-.nav-color{
-  background-color: #3E3C3C;
-}
   .headline {
     display: flex;
     background-image: url("./img/Illustration-header.png");
@@ -1026,4 +997,9 @@
     background-color: #fbf8f7;
     height: 114px;
   }
+}
+
+.project-section {
+  width: 369px;
+  height: 425px;
 }
